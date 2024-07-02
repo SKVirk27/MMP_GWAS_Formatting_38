@@ -1,11 +1,4 @@
 # MMP_GWAS_Formatting_38
-# GTEx_eQTL_Pipeline
-
-I apologize for the misunderstanding. Let's update the README to reflect that the script is for formatting GWAS data, which can then be used for Mendelian Randomization (MR) studies. Here’s the revised README and script.
-
-### Revised README
-
-```markdown
 # GWAS_Formatting_Pipeline
 
 This repository contains scripts and data for formatting GWAS (Genome-Wide Association Study) summary statistics, preparing them for further analysis such as Mendelian Randomization (MR) studies.
